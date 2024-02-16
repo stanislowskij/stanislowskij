@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**stanislowskij/stanislowskij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jaydon *(he/him)*, or Jay for short (for comedic value, I often go by `/Jay(?:don)?/`.
 
-Here are some ideas to get you started:
+🎓 I'm a second-year undergraduate student and teaching assistant of computer science at the University of Minnesota - Morris.
+🎵 I love learning, planets, music (of all kinds), math, and cats.
+☕ I have some experience in Java, back-end development and client-server architecture, and am looking to expand my skills in these areas.
+👾 I go by [im_voxel](https://github.com/im-voxel) on my personal accounts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't have much going on yet, but I'm excited to post updates about what I'm up to here once I get around to it.
+
+---
+
+# What I'm learning
+
+💻 Concepts of hardware architecture
+🧾 Compilers, parsing and grammars
+✏️ C, C++ and Python
+🐚 Shell scripting and Unix commands
+🧩 OOP design patterns
