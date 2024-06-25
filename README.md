@@ -7,13 +7,3 @@ My name is Jaydon *(he/him)*, or Jay for short (for comedic value, I often go by
 - ☕ I have some experience in Java, back-end development and client-server architecture, and am looking to expand my skills in these areas.
 
 I don't have much going on yet, but I'm excited to post updates about what I'm up to here once I get around to it.
-
----
-
-# What I'm learning
-
-- 💻 Concepts of hardware architecture
-- 🧾 Compilers, parsing and grammars
-- ✏️ C, C++ and Python
-- 🐚 Shell scripting and Unix commands
-- 🧩 OOP design patterns
