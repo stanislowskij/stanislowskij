@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Jaydon *(he/him)*, or Jay for short (for comedic value, I often go by `/Jay(?:don)?/`).
+My name is Jaydon *(he/him)*, or Jay for short (`/Jay(?:don)?/`).
 
 - 🎓 I'm a second-year undergraduate student and teaching assistant of computer science at the University of Minnesota - Morris.
 - 🎵 I love learning, planets, music (of all kinds), math, and cats.
