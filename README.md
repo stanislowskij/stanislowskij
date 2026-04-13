@@ -2,4 +2,6 @@
 
 My name is Jaydon *(he/him)*, or Jay for short.
 
-I don't have much going on yet, but I'm excited to post updates about what I'm up to here once I get around to it.
+Here are some links to some of my projects I've done in university (work in progress):
+
+- [🔗](https://github.com/stanislowskij/senior-seminar/) Senior Seminar (Fall 2025)
